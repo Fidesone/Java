@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
 public class ControlStatements {
+
+    // Sentencia de control: IF- ELSE
+
    /* public static void main(String[] args) {
         // Sentencias de control: IF- ELSE
         System.out.println("En que mes estamos? (del 1 al 12)");
@@ -31,8 +34,10 @@ public class ControlStatements {
     }
 }*/
 
-    public static void main(String[] args) {
-        // Sentencias de control: IF- ELSE
+   // Sentencia de control: SWITCH
+
+   /* public static void main(String[] args) {
+
         System.out.println("En que mes estamos? (del 1 al 12)");
         Scanner consola = new Scanner(System.in);
         var mes = Integer.parseInt(consola.nextLine());
@@ -54,5 +59,5 @@ public class ControlStatements {
         }
         System.out.println("Es el mes " + mes + " , asi que nos encontramos en " + estacion);
 
-    }
-}
+    }*/
+} 
